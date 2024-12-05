@@ -2,5 +2,8 @@ git init -- Inicia o Repositório
 git status -- Verifica o status dos arquivos
 git status -s -- Mostra se o arquivo esta salvo
 git add -- Adiciona o arquivo no repositório
-git commit -n ""
-git config user.name
+git commit -m "" -- Envia as alterações para o repositório
+git config user.name -- adiciona o E-mail do usuário no repositório do GitHub
+git log -- Mostra os commits feitos
+git log --oneline -- mostrar os commits em uma linha
+git --amend -m ""
