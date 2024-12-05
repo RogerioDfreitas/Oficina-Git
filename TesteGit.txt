@@ -6,7 +6,5 @@ git commit -m "" -- Envia as alterações para o repositório
 git config user.name -- adiciona o E-mail do usuário no repositório do GitHub
 git log -- Mostra os commits feitos
 git log --oneline -- mostrar os commits em uma linha
-git --amend -m ""
-
-estoy loco
+git --amend -m ""...
 
