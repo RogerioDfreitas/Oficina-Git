@@ -4,7 +4,7 @@ açúcar
 farinha de trigo
 3 xícaras (chá) de farinha de trigo
 margarina
-4 colheres (sopa) de margarina
+3 colheres (sopa) de margarina
 ovo
 3 ovos
 leite
@@ -12,3 +12,4 @@ leite
 fermento em pó químico
 1 colher (sopa) bem cheia de fermento em pó
 Materiais
+
