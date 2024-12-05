@@ -9,3 +9,4 @@ git log --oneline -- mostrar os commits em uma linha
 git --amend -m ""
 
 estoy loco
+
