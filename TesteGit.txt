@@ -1,0 +1,6 @@
+git init -- Inicia o Repositório
+git status -- Verifica o status dos arquivos
+git status -s -- Mostra se o arquivo esta salvo
+git add -- Adiciona o arquivo no repositório
+git commit -n ""
+git config user.name
